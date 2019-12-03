@@ -9,5 +9,5 @@ pytorch1.1的安装方法可参考https://pytorch.org/get-started/previous-versi
 
 示例：python eval_txt.py -N battery_sub_test_txt -A annotation -I image -M bestmodel.pt
 
-为了方便运行，我将数据集按照要求排列在了文件夹中，搭好环境后直接运行上述命令即可，在5500张图像上的mAp表现目前为0.98，预计该模型的mAp浮动范围为0.87~0.93
+为了方便运行，我将数据集按照要求排列在了文件夹中(数据集没上传），搭好环境后直接运行上述命令即可，在5500张图像上的mAp表现目前为0.98，预计该模型的mAp浮动范围为0.87~0.93
 
